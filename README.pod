@@ -2,4 +2,18 @@
 
 DER.
 
+=head1 API Links
+
+=over 4
+
+=item * L<http://spreedly.com>
+
+=item * L<http://spreedly.com/info/integration>
+
+=item * L<http://spreedly.com/manual/integration-guide>
+
+=item * L<http://spreedly.com/manual/integration-reference>
+
+=back
+
 =cut
